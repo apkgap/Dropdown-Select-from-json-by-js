@@ -1,0 +1,16 @@
+{
+    "name": "jules/chillerlan-qrcode-plugin",
+    "description": "A WordPress plugin for generating QR codes.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jules",
+            "homepage": "https://github.com/jules-agent"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
